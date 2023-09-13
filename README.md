@@ -1,1 +1,1 @@
-# ml-machine-beginner
+# Beginner Machine Learning
